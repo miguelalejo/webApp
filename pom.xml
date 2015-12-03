@@ -9,6 +9,7 @@
 	<name>WAR WEB APP</name>
 	<description>Desarrollo Practica Examen Certificacion OCEJWCD</description>
 	<build>
+		<finalName>webApp</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-war-plugin</artifactId>

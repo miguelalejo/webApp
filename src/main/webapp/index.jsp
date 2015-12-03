@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>Iniciado..PRUEBA</title>
+<title>WEB APP</title>
 </head>
 <body>
-<p>Por favor, espere mientras se inicia la aplicaci&oacute;n de PRUEBA</p>
+<p>PAGINA DE BIENVENIDA APP WEB APP</p>
 </body>
 </html>
